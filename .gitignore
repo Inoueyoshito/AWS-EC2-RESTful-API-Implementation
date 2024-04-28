@@ -1,0 +1,13 @@
+#Python仮想環境
+myproject_venv/
+
+#環境設定ファイル
+.env
+
+#Django自動生成ファイル
+*.log
+*.pot
+*.pyc
+
+#ローカル設定ファイル
+settings.py
