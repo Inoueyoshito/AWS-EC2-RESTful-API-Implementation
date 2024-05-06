@@ -10,3 +10,5 @@
   <img src="https://img.shields.io/badge/-Amazon%20EC2-232F3E.svg?logo=amazon-ec2&style=for-the-badge">
   
 </p>
+
+#### ローカル環境で実装後、リモート環境で構築とデプロイ
